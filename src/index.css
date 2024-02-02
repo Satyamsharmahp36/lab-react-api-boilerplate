@@ -73,11 +73,11 @@ button:focus-visible {
    justify-content: space-between;
 }
 
-/* style={{
-  width:'80%',
-  textAlign: 'left'
-}}> */
+p{
+  width: "70%";
+  text-align: left;
+}
 
-/* style={{
-  textAlign:'left'
-}} */
+h4{
+  text-align: left;
+}
